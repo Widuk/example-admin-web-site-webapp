@@ -68,7 +68,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Dependencies
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0 using the instruction `ng new`. It uses Angular material as additional pre-installed dependency, as specified in package.json file.
-- 
+- [Example Administration API (Web Service)](https://github.com/Widuk/example-admin-api-webservice): API used to persist the user actions to a database.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
