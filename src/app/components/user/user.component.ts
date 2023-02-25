@@ -4,7 +4,7 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 import { MatTableDataSource } from '@angular/material/table';
 import { MatPaginator, PageEvent } from '@angular/material/paginator';
 import { UserService } from 'src/app/services/user/user.service';
-import { User } from './user.model';
+import { User } from '../../models/user.model';
 
 @Component({
   selector: 'app-user',

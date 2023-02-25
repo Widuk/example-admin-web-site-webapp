@@ -15,7 +15,7 @@ import { MatCardModule } from '@angular/material/card';
 
 
 import { of } from 'rxjs';
-import { User } from './user.model';
+import { User } from '../../models/user.model';
 
 describe('UserComponent', () => {
   let component: UserComponent;
